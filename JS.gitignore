@@ -1,4 +1,7 @@
-# Version: 22.03
+# Version: 22.04
+# Project: https://github.com/moonjellydigital/js-gitignore
+# License: MIT
+# Copyright (c) 2022 Camille Spain
 
 # Mac Desktop Services Store
 .DS_Store
