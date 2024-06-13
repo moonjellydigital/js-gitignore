@@ -4,11 +4,23 @@ A `.gitignore` template for JavaScript and TypeScript projects.
 
 ## Getting the Template
 
-Clone latest: `git clone https://github.com/moonjellydigital/js-gitignore.git`
+Clone latest:
 
-Clone a particular version: `git clone -b <tag_name> https://github.com/moonjellydigital/js-gitignore.git`
+```shell
+git clone https://github.com/moonjellydigital/js-gitignore.git
+```
 
-Download latest `JS.gitignore` file: `wget https://raw.githubusercontent.com/moonjellydigital/js-gitignore/main/JS.gitignore`
+Clone a particular version:
+
+```shell
+git clone -b <tag_name> https://github.com/moonjellydigital/js-gitignore.git
+```
+
+Download latest `JS.gitignore` file:
+
+```shell
+wget https://raw.githubusercontent.com/moonjellydigital/js-gitignore/main/JS.gitignore
+```
 
 ## Usage
 

@@ -1,7 +1,7 @@
-# Version: 22.04
+# Version: 24.06
 # Project: https://github.com/moonjellydigital/js-gitignore
 # License: MIT
-# Copyright (c) 2022 Camille Spain
+# Copyright (c) 2022 - 2024 Camille Spain
 
 # Mac Desktop Services Store
 .DS_Store
@@ -27,7 +27,7 @@ logs
 *.launch
 .settings/
 *.sublime-workspace
-*.swp
+*.sw?
 .vscode/
 
 # .env Files
