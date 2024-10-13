@@ -1,7 +1,7 @@
-# Version: 24.06
+# Version: 24.10
 # Project: https://github.com/moonjellydigital/js-gitignore
 # License: MIT
-# Copyright (c) 2022 - 2024 Camille Spain
+# Copyright (c) 2022 Camille Spain
 
 # Mac Desktop Services Store
 .DS_Store
@@ -132,6 +132,11 @@ dist
 
 # Serverless Build
 .serverless/
+
+## Astro ##
+
+# Generated Types
+.astro/
 
 ## DATA STORES ##
 
