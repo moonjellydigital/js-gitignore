@@ -1,4 +1,4 @@
-# Version: 24.10
+# Version: 26.10
 # Project: https://github.com/moonjellydigital/js-gitignore
 # License: MIT
 # Copyright (c) 2022 Camille Spain
@@ -188,6 +188,9 @@ coverage
 
 # Istanbul nyc CLI
 .nyc_output
+
+# Vitest reports and artifacts
+.vitest/
 
 ## VS Code ##
 

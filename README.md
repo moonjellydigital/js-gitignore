@@ -4,6 +4,18 @@ A `.gitignore` template for JavaScript and TypeScript projects.
 
 ## Getting the Template
 
+Download latest `JS.gitignore` file:
+
+```shell
+wget https://raw.githubusercontent.com/moonjellydigital/js-gitignore/main/JS.gitignore
+```
+
+Download `JS.gitignore` file at a particular tag:
+
+```shell
+wget https://raw.githubusercontent.com/moonjellydigital/js-gitignore/<tag_name>/JS.gitignore
+```
+
 Clone latest:
 
 ```shell
@@ -14,12 +26,6 @@ Clone a particular version:
 
 ```shell
 git clone -b <tag_name> https://github.com/moonjellydigital/js-gitignore.git
-```
-
-Download latest `JS.gitignore` file:
-
-```shell
-wget https://raw.githubusercontent.com/moonjellydigital/js-gitignore/main/JS.gitignore
 ```
 
 ## Usage
